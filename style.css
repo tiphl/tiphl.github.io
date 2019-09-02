@@ -1,0 +1,45 @@
+/* == couleurs utilisées ==  
+
+ sites: -https://www.materialui.co/colors (Material Design)
+        -https://www.color-hex.com/color/2e1123
+ */ 
+
+/* == Général ==*/
+
+/* == Partie Gauche ==*/
+
+/* == Partie Droite ==*/
+
+
+/* ---------------------------------------- */
+/* == MEDIA QUERIES */
+/*---------------------------------------- */
+
+/*   Format mobile    */
+
+@media screen and (max--width: 767px) 
+{
+
+
+}
+
+/*     Format tablette      */
+
+@media screen and (min-width: 768px) and (max-width: 1023)
+
+{
+
+
+}
+
+
+/*     Format desktop      */
+
+@media screen and (min-width: 1024px) 
+
+{
+
+
+
+}
+
