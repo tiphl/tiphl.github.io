@@ -4,11 +4,77 @@
         -https://www.color-hex.com/color/2e1123
  */ 
 
-/* == Général ==*/
 
-/* == Partie Gauche ==*/
 
-/* == Partie Droite ==*/
+/* == Général == */
+
+
+
+/* Liens */
+
+ /*liens par défaut non survolés */
+
+
+
+/* Apparence au survol des liens */
+
+
+
+/*Icones*/
+
+
+/* Titres */
+
+
+
+/*Paragraphes*/
+
+/*Sections*/
+
+
+
+/*Listes*/
+
+/*Sections Formations & Exp profesionnelles*/
+
+
+
+/* == HEADER == 
+
+partie gauche */
+
+
+
+/*Photo d'identité*/
+
+
+/*Contact*/
+
+/*Loisirs*/
+
+
+
+/* == MAIN ==
+partie de droite */
+
+
+/* icônes */
+=
+
+/*Identité*/
+
+
+/* == SECTION FORMATIONS */
+
+
+
+/* == SECTION EXPERIENCE PROFESSIONNELLE */
+
+
+
+/* == RECOMMANDATION */
+
+
 
 
 /* ---------------------------------------- */
@@ -20,6 +86,12 @@
 @media screen and (max--width: 767px) 
 {
 
+  /*Général*/
+
+
+  /*Parties*/
+
+
 
 }
 
@@ -28,6 +100,15 @@
 @media screen and (min-width: 768px) and (max-width: 1023)
 
 {
+
+
+
+  /*Général*/
+
+
+
+  /*Parties*/
+
 
 
 }
@@ -39,7 +120,12 @@
 
 {
 
+  /*Général*/
 
+
+    /*Header*/
+
+/* Parties */
 
 }
 
