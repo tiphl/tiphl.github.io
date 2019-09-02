@@ -69,7 +69,7 @@ h3
 
 .name
 {
-  color: #341327;
+  color: #5A3F4F;
 }
 
 /*Paragraphes*/
@@ -394,6 +394,11 @@ partie de droite */
     width: 25%;
     padding-top: 45px;
   
+  }
+
+  header #identity
+  {
+    display: none;
   }
 
   header .identity_img 
